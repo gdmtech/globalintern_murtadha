@@ -1,3 +1,3 @@
-# globalintern_murthada
+# globalintern_murtada
 Repo for DEVELOPER interns
 
